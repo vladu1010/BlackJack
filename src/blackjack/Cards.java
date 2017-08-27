@@ -18,6 +18,8 @@ public class Cards {
 	}
 	
 	public int getValue () {
+		System.out.println("sal");
+
 		return Rank;
 	}
 	
